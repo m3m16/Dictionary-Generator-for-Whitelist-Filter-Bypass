@@ -11,5 +11,5 @@ Este script genera un diccionario con múltiples combinaciones de extensiones ma
 ```bash
 git clone https://github.com/m3m16/Dictionary-Generator-for-Whitelist-Filter-Bypass.git
 cd Dictionary-Generator-for-Whitelist-Filter-Bypass
-python3 generar_diccionario.py
+python3 generator.py
 ```
