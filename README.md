@@ -9,7 +9,7 @@ Este script genera un diccionario con múltiples combinaciones de extensiones ma
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/m3m16/nombre-repo.git](https://github.com/m3m16/Dictionary-Generator-for-Whitelist-Filter-Bypass.git
+git clone https://github.com/m3m16/Dictionary-Generator-for-Whitelist-Filter-Bypass.git
 cd Dictionary-Generator-for-Whitelist-Filter-Bypass
 python3 generar_diccionario.py
 ```
